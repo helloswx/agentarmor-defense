@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(where pdftotext *)",
+      "Bash(/f/Python/Python310/python -c \"import PyPDF2; print\\('PyPDF2 available'\\)\")",
+      "Bash(/f/Python/Python310/python -c \"import pdfplumber; print\\('pdfplumber available'\\)\")",
+      "Bash(/f/Python/Python310/python -c \"import pikepdf; print\\('pikepdf available'\\)\")",
+      "Bash(pip install *)",
+      "Bash(/f/Python/Python310/python -m pip install PyPDF2)",
+      "Bash(/f/Python/Python310/python *)",
+      "WebFetch(domain:docs.laozhang.ai)",
+      "Bash(python -m pip install PyMuPDF -q)",
+      "Bash(python *)",
+      "Bash(unzip -l \"长程攻击样例.zip\")",
+      "Bash(mkdir -p long_range_attacks)",
+      "Bash(unzip -o \"长程攻击样例.zip\" -d long_range_attacks)",
+      "Bash(python3 *)",
+      "Bash(gh auth *)",
+      "Bash(git --version)",
+      "Bash(where git *)",
+      "Bash(winget install *)",
+      "Bash(C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe *)",
+      "Bash(C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe auth *)"
+    ]
+  }
+}
