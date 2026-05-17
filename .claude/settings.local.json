@@ -21,7 +21,17 @@
       "Bash(where git *)",
       "Bash(winget install *)",
       "Bash(C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe *)",
-      "Bash(C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe auth *)"
+      "Bash(C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe auth *)",
+      "Bash(set +o history)",
+      "Bash(\"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" auth login --with-token)",
+      "Bash(C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe repo *)",
+      "Bash(git commit *)",
+      "Bash(claude mcp *)",
+      "Bash(cmd *)",
+      "Bash(npx *)",
+      "Bash(npm cache *)",
+      "Bash(npm install *)",
+      "Bash(gitnexus analyze *)"
     ]
   }
 }
